@@ -96,6 +96,11 @@ When I'm not coding, I'm probably:
     <img src="https://img.shields.io/badge/GitHub-302321?style=for-the-badge&logo=github&logoColor=EBDCC8" />
   </a>
 </p>
+<p align="center">
+  <a href="https://www.instagram.com/iblamemoeed/">
+    <img src="https://img.shields.io/badge/Instagram-591F2B?style=for-the-badge&logo=instagram&logoColor=EBDCC8" />
+  </a>
+</p>
 
 ---
 
