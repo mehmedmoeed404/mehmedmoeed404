@@ -53,8 +53,8 @@ I'm interested in software development, cybersecurity, networking, hardware and 
 ### 📊 A little GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&bg_color=302321&title_color=D58B83&text_color=EBDCC8&icon_color=A3424E" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&bg_color=591F2B&title_color=EBDCC8&text_color=EBDCC8" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmedmoeed404&show_icons=true&hide_border=true&bg_color=302321&title_color=D58B83&text_color=EBDCC8&icon_color=A3424E" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmedmoeed404&layout=compact&hide_border=true&bg_color=591F2B&title_color=EBDCC8&text_color=EBDCC8" height="165" />
 </p>
 
 ### 🎧 Outside the terminal
